@@ -1,0 +1,3 @@
+name: filelaza-targets-pulumi-stack
+runtime: nodejs
+description: filelaza target resources
