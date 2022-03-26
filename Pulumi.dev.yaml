@@ -1,3 +1,4 @@
 config:
   aws:region: eu-central-1
+  filelaza-targets-pulumi-stack:eventTargetMaximumRetryAttempts: "3"
   filelaza-targets-pulumi-stack:prefix: filelaza-targets-pulumi-dev
